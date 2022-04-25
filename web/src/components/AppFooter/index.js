@@ -181,7 +181,7 @@ const AppFooter = ({
 				)}
 			>
 				<div className="pt-2">
-					{!links.hide_referral_badge && (
+					{/* {!links.hide_referral_badge && (
 						<a
 							href={links.referral_link}
 							target="_blank"
@@ -189,7 +189,7 @@ const AppFooter = ({
 						>
 							<span>{links.referral_label}</span>
 						</a>
-					)}
+					)} */}
 				</div>
 				<div className="d-flex pt-2">
 					<div className="pr-2">
